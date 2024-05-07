@@ -1,0 +1,31 @@
+.photo{
+    height: 450px;
+    width: auto;
+}
+h1, h2, .photo, p{
+    text-align: center;
+}
+body{
+    background-color: rgb(229, 230, 196);
+}
+
+li{
+    font-size: 25px;
+    
+}
+h2{
+    color: brown;
+    font-size: 30px;
+}
+
+#menu-main{
+    text-align: center;
+}
+ul.myUL{
+    display: inline-block;
+    text-align: left;
+}
+h2{
+    line-height: 2;
+    border-bottom: 1px solid #888;
+}
